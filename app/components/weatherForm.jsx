@@ -5,7 +5,7 @@ export class WeatherForm extends React.Component {
         return (
             <form onSubmit={this.onFormSubmit.bind(this)}>
                 <input type="text" ref="place"/>
-                <button>Get Weather</button>
+                <button className="expanded button hollow">Get Weather</button>
             </form>
         )
     }

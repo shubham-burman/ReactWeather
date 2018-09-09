@@ -4,7 +4,7 @@ export class WeatherMessage extends React.Component{
     render() {
         return (
             <div>
-                <h2>Temperature in {this.props.location} is {this.props.temp}</h2>
+                <h3 className="text-center">Temperature in {this.props.location} is {this.props.temp} celsius</h3>
             </div>
         )
     }

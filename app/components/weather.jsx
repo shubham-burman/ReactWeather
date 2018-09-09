@@ -14,7 +14,7 @@ export class Weather extends React.Component {
     render() {
         return (
             <div>
-                <h1>Weather Component</h1>
+                <h1 className="text-center">Get Weather</h1>
                 <WeatherForm onSearch={this.onSearch.bind(this)}></WeatherForm>
                 {this.renderMessage()}
             </div>
@@ -23,7 +23,7 @@ export class Weather extends React.Component {
 
     renderMessage() {
         if(this.state.isLoading) {
-            return <h2>Fetching Data...</h2>
+            return <h3 className="text-center">Fetching Data...</h3>
         } else if(this.state.temp && this.state.temp) {
             return  <WeatherMessage location={this.state.location} temp={this.state.temp}/>
         }
