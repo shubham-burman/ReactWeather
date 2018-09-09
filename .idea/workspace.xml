@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc90fdd-196e-4512-9357-9a85072a7fcd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/components/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/about.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/examples.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/examples.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -80,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="examples.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="examples.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/examples.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -150,9 +150,9 @@
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/app/components/about.jsx" />
         <option value="$PROJECT_DIR$/app/components/examples.jsx" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -173,8 +173,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="68" />
+    <option name="x" value="213" />
+    <option name="y" value="23" />
     <option name="width" value="1112" />
     <option name="height" value="823" />
   </component>
@@ -249,15 +249,16 @@
       <workItem from="1535599536571" duration="2956000" />
       <workItem from="1535877641579" duration="7537000" />
       <workItem from="1535963973957" duration="1777000" />
-      <workItem from="1536459348220" duration="2565000" />
+      <workItem from="1536459348220" duration="3048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48740000" />
+    <option name="totallyTimeSpent" value="49223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="345" y="68" width="1112" height="823" extended-state="0" />
+    <frame x="213" y="23" width="1112" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14665444" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -621,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/about.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -639,6 +633,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
