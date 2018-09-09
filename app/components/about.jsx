@@ -4,7 +4,10 @@ import React from "react";
 export class About extends React.Component {
     render() {
         return (
-            <h1>About</h1>
+            <div>
+                <h1>About</h1>
+                <p>Welcome to About page!</p>
+            </div>
         )
     }
 }
